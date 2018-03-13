@@ -22,8 +22,8 @@ function randomNumber(n) {
 }
 
 console.log(
-    '\ngenerate rand Number with seed: 50: ', randomNumber(500),
+    '\ngenerate rand Number with seed: 500: ', randomNumber(500),
     '\ngenerate rand Number with seed: 1: ', randomNumber(1),
-    '\ngenerate rand Number with seed: 50: ', randomNumber(500),
+    '\ngenerate rand Number with seed: 500: ', randomNumber(500),
     '\ngenerate rand Number with seed: 999999: ', randomNumber(999999)
 );

@@ -34,3 +34,8 @@ randomNumber(1) // returns 0
 randomNumber(500) // returns 466
 randomNumber(1000001) // throw error
 ```
+
+## How to run
+1. clone this repository.
+2. in your terminal `cd [thisRepositoryPath]`.
+3. also in your terminal run `npm start`.
