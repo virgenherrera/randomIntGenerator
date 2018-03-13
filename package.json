@@ -1,0 +1,13 @@
+{
+  "name": "random-int-generator",
+  "version": "1.0.0",
+  "description": "Generates a random number greater than or equal to 0, and less than input n",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "virgenherrera@gmail.com",
+  "license": "MIT"
+}
